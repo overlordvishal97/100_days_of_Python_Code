@@ -18,3 +18,7 @@ Hangman game you have to guess the letters in order to save the hangman if you f
 
 # Day 8
 Caesar Cipher an encryption program which encrypts by shifting the alphabets by the requested amount (1-45) and decodes the message by entering the shift amount you entered before 
+
+# Day 9
+Secret Auction Program is a console-based program that simulates a secret auction where users can bid anonymously. The program keeps track of bids, displays the highest bidder and their bid at the end, and allows users to continue or stop bidding.
+
