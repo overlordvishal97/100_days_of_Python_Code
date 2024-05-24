@@ -24,3 +24,6 @@ Secret Auction Program is a console-based program that simulates a secret auctio
 
 # Day 10
 This is a simple calculator program that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program prompts the user to input two numbers and an operation symbol (+, -, *, /), and then performs the calculation and displays the result. The user can choose to continue calculating with the result or exit the program.
+
+# Day 11
+Blackjack Game simple implementation of the popular card game Blackjack, also known as 21.
