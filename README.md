@@ -27,3 +27,6 @@ This is a simple calculator program that allows users to perform basic arithmeti
 
 # Day 11
 Blackjack Game simple implementation of the popular card game Blackjack, also known as 21.
+
+# Day 12
+Guess The Number is a simple number guessing game implemented in Python. The game generates a random number between 1 and 100, and the user has to guess the number within a certain number of attempts. The game has two difficulty levels: easy and hard. In the easy mode, the user has 10 attempts to guess the number, while in the hard mode, the user has only 5 attempts.
