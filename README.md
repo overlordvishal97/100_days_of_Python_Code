@@ -30,3 +30,7 @@ Blackjack Game simple implementation of the popular card game Blackjack, also kn
 
 # Day 12
 Guess The Number is a simple number guessing game implemented in Python. The game generates a random number between 1 and 100, and the user has to guess the number within a certain number of attempts. The game has two difficulty levels: easy and hard. In the easy mode, the user has 10 attempts to guess the number, while in the hard mode, the user has only 5 attempts.
+
+# Day 14
+Higher Lower is a simple game where the user guesses which account has more followers between two randomly selected accounts.
+
