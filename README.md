@@ -34,3 +34,7 @@ Guess The Number is a simple number guessing game implemented in Python. The gam
 # Day 14
 Higher Lower is a simple game where the user guesses which account has more followers between two randomly selected accounts.
 
+# Day 15
+This is a simple coffee machine program that allows users to order coffee drinks and pay with coins. The program keeps track of the resources available in the machine and calculates the cost of each drink
+
+
