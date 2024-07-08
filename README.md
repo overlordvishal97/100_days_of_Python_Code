@@ -37,4 +37,29 @@ Higher Lower is a simple game where the user guesses which account has more foll
 # Day 15
 This is a simple coffee machine program that allows users to order coffee drinks and pay with coins. The program keeps track of the resources available in the machine and calculates the cost of each drink
 
+# Day 16
+This is a coffee machine simulator that allows users to interact with a virtual coffee machine. The machine can make different types of coffee drinks, report its resources, and accept payments.
+
+# Day 17
+This is a simple quiz game that asks the user a series of true or false questions. The game keeps track of the user's score and displays it at the end of the game.
+
+# Day 18
+This project generates a piece of art inspired by a known artist using a combination of colors extracted from an image. The art is created using the Turtle graphics library in Python
+
+# Day 19
+Turtle-Graphics-Controller is a simple controller for the Turtle graphics library in Python. It allows the user to control the turtle's movements using keyboard inputs.
+
+# Day 20
+Turtle-Racing-Game is a simple turtle racing game built using the Turtle graphics library in Python. The game allows the user to place a bet on which turtle will win the race.
+
+# Day 21
+Snake-Game is a simple implementation of the classic Snake game using the Turtle graphics library in Python.
+
+# Day 22
+Pong-Game is a simple implementation of the classic Pong game using the Turtle graphics library in Python.
+
+# Day 23
+Turtle-Crossing-Game is a simple implementation of the classic Turtle Crossing game using the Turtle graphics library in Python.
+
+
 
